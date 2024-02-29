@@ -25,7 +25,7 @@ jobs:
         with:
           command: web
           config: dast-config/zap_config.yaml
-          environment_id: e655b0a8-be7a-4332-9de5-c23b2a954dbf
+          environment_id: 2339f6c7-0815-40ea-a9fe-1b6a82916c21
           fail_on: "HIGH"
           log_level: info
           base_url: https://deu.ast.checkmarx.net/
